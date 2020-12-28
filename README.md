@@ -9,3 +9,4 @@ Privacy: https://docs.google.com/document/d/18MDASiY7u7wNYvT2Uhb3-66KbisyTS4Spzx
 
 Terms and Conditions: https://docs.google.com/document/d/18MDASiY7u7wNYvT2Uhb3-66KbisyTS4Spzxj7TOo-3E/edit?usp=sharing
 
+![alt text](https://github.com/rodneyamor/Outdoor-Activity-Tracker-Public-/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202020-12-09%20at%2021.59.31.png)
